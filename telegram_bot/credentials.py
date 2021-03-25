@@ -1,2 +1,2 @@
-BOT_TOKEN = "secret_token"
-bot_user_name = "your_bot_name"
+BOT_TOKEN = "1659121774:AAFokv4_sRw02eeB0kz9ZN8lKTUWYk4J9ig"
+bot_user_name = "AI882BOT"
